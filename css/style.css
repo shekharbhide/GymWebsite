@@ -1,0 +1,23 @@
+.left{
+    
+}
+.left img{
+    width: 100px;
+    
+}
+
+.mid{
+    
+    display: block;
+    width: 48%;
+    margin: 20px auto;
+   /*  left: 400px; */
+}
+
+navbar li{
+    display: inline-block;
+}
+.right{
+    position: absolute;
+    right: 50px;
+}
